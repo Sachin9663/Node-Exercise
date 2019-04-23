@@ -1,0 +1,11 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Simple server",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index"
+  },
+  "author": "Sachin",
+  "license": "ISC"
+}
